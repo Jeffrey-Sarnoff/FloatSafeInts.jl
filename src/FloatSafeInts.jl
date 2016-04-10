@@ -1,8 +1,8 @@
 """
 module ``FloatSafeInts``
 \n
-Use `safemax`, `safemin` to get the extremal integer in a connected sequence of integer values
-that interconvert exactly with their same sized float type.
+Use `safemax`, `safemin` to get the extremal integer in a connected sequence
+of integer values that interconvert exactly with their same sized float type.
 \n
 Use `isfloatsafe`, `isintsafe` to determine whether a value is integral and safely interconverts.
 """
